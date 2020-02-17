@@ -1,0 +1,21 @@
+*,
+*:before,
+*:after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    padding: 20px 50px;
+}
+
+.large{
+    height: 380px !important;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
